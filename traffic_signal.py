@@ -23,5 +23,5 @@ exit - Exit the program''')
         print('Exiting...')
         break
     else:
-        print("Invalid command. Type 'help' for options.")
+        print("Invalid command. Type 'help' for options..")
 
